@@ -1,0 +1,14 @@
+.About {
+  align-self: flex-start;
+  padding: 80px 80px 40px 160px;
+  max-width: 800px;
+  line-height: 1.4;
+}
+
+.About p {
+  margin-top: 20px;
+}
+
+.About ul > li {
+  margin-top: 10px;
+}
